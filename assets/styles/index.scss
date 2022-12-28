@@ -1,0 +1,17 @@
+@import "./typography.scss";
+
+:root{
+    font-family: OpenSans_Reqular, Vazir !important;
+}
+body{
+    font-family: OpenSans, sans-serif!important;
+    font-weight: 400;
+}
+ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+a {
+    text-decoration: none!important;
+}

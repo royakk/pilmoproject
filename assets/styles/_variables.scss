@@ -1,0 +1,17 @@
+$white-color: #ffffff;
+$black-color: #414042;
+$dark-color: #402f2b;
+$light-color: #e6d5c3;
+$primary-color1: #531a63;
+$primary-color2: #581693;
+$text-muted:#919191;
+
+:export {
+    whitColor: $white-color;
+    blackColor: $black-color;
+    darkColor: $dark-color;
+    lightColor: $light-color;
+    primaryColor1: $primary-color1;
+    primaryColor2: $primary-color2;
+    text-muted:$text-muted;
+}
